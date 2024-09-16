@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hourglass</string>
+
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="flip">Flip</string>
+    <string name="mid_time" translatable="false">:</string>
+</resources>
